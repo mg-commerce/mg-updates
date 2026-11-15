@@ -1,0 +1,83 @@
+{
+  "version": "1.4.5",
+  "datum": "15.11.2026",
+  "download": "https://1drv.ms/u/c/6aaf7f3962735813/IQDJGwHeRf-eRpQDq_0HBfhBAeBcBJNaiOPUOB8Z5GX6xAU?e=cQGKf5",
+  "verlauf": [
+    {
+      "version": "1.4.5",
+      "datum": "15.11.2026",
+      "neu": [
+        "Firmen-Einstellungen übersichtlich in Klappmenüs – Bereiche mit fehlenden Pflichtangaben öffnen sich von selbst",
+        "Firmendaten, Bankverbindung und Steuerangaben werden jeweils einzeln gespeichert",
+        "Neuer Baustein „Finanzen & Personalkosten“ (14 Tage kostenlos testen): Einnahmen, Ausgaben und Personalkosten pro Monat als Balkendiagramm",
+        "Auf einen Blick: Ergebnis, Personalkostenquote und Vergleich mit dem Vorjahr (gleicher Zeitraum)",
+        "Personalkosten wahlweise als eine Summe für alle Mitarbeiter (schnell) oder je Mitarbeiter mit Austrittsdatum",
+        "Tatsächliche Personalkosten für das ganze Jahr in einer Tabelle eintragen oder das Lohnjournal als CSV importieren",
+        "Einnahmen wahlweise nach Rechnungsdatum oder Zahlungseingang, Tabelle als CSV für Excel"
+      ]
+    },
+    {
+      "version": "1.4.4",
+      "datum": "14.11.2026",
+      "neu": [
+        "Wartungsupdate: Prüfung der Update-Funktion (keine sichtbaren Änderungen)"
+      ]
+    },
+    {
+      "version": "1.4.3",
+      "datum": "14.11.2026",
+      "neu": [
+        "Update-Installation beendet das laufende Programm automatisch (kein „Zugriff verweigert“ mehr)",
+        "„Jetzt prüfen“ findet neue Versionen sofort und meldet Verbindungsprobleme",
+        "Aufmaß: Materialverbrauch (Farbe, Tiefengrund, Spachtel, Reserve) je Betrieb einstellbar",
+        "Aufmaß: Spachtelbedarf für „Risse ausbessern“ realistischer berechnet",
+        "Aufmaß: Hinweis auf Leibungsflächen bei abgezogenen Fenstern und Türen"
+      ]
+    },
+    {
+      "version": "1.4.2",
+      "datum": "14.11.2026",
+      "neu": [
+        "Aufmaß: „Kompletter Raum“ – Maße einmal eingeben, Decke und Wände ankreuzen, alles mit einem Klick speichern",
+        "Aufmaß: Warnung, wenn eine Position versehentlich doppelt gespeichert wird",
+        "Materialbedarf korrigiert: Farbe nur für Anstrichflächen, neu mit Tapetenrollen und Kleister",
+        "Aufmaß-PDF mit deutschem Zahlenformat und ohne leere Materialzeilen",
+        "Bankverbindung erscheint nur, wenn eine IBAN hinterlegt ist",
+        "Firmen-Einstellungen prüfen Postleitzahl und E-Mail-Adresse",
+        "Silikonharzfarbe wird für Innenanstriche nicht mehr angeboten",
+        "Technische Meldungen im schwarzen Fenster bereinigt"
+      ]
+    },
+    {
+      "version": "1.4.1",
+      "datum": "14.11.2026",
+      "neu": [
+        "Startseite übersichtlich in Bereichen: Aufträge, Team, Betrieb, Büro & Finanzen",
+        "Abschlags- und Schlussrechnungen – Abschläge werden automatisch abgezogen",
+        "Rechnungen, Angebote und Mahnungen per E-Mail: fertiger Entwurf mit PDF im eigenen Mailprogramm",
+        "Nach dem Speichern: PDF direkt herunterladen oder Ordner öffnen",
+        "GoBD-Schutz: Prüfsummen und Änderungsprotokoll für alle Rechnungen",
+        "Verfahrensdokumentation (GoBD) auf Knopfdruck",
+        "Mehr Sicherheit: PINs werden nur noch verschlüsselt gespeichert",
+        "Hausmeister: „Meine Aufgaben“ für Mitarbeiter mit Wochenplan als PDF und Zusatz-Einsätzen",
+        "Vertretung bei Urlaub/Krankheit; die Glocke meldet nicht erledigte Aufgaben",
+        "Monatsabrechnung prüft Monat und Vertragsbeginn; deutsches Zahlenformat auf Rechnungen",
+        "Umsatz und Rechnungen auf der Startseite für beliebige Zeiträume",
+        "Sicherheitsabfrage vor dem Absenden von Anträgen",
+        "Der PC geht nicht mehr in den Energiesparmodus, solange das Programm läuft",
+        "Datenordner heißt jetzt „MG_Daten“ (wird beim Start automatisch umbenannt)"
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "datum": "13.11.2026",
+      "neu": [
+        "Handy wie eine App: MG-Symbol auf dem Startbildschirm",
+        "DATEV-Export für den Steuerberater (Buchungsstapel + Belege-ZIP)",
+        "Rechnungen: Spalte „Bezahlt am“",
+        "Ausgaben stornieren statt löschen (GoBD)",
+        "Update-Meldung im Programm"
+      ]
+    }
+  ]
+}
