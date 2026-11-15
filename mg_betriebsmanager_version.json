@@ -1,8 +1,38 @@
 {
-  "version": "1.4.6",
+  "version": "1.6.0",
   "datum": "15.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.4.6.exe",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.6.0.exe",
   "verlauf": [
+    {
+      "version": "1.6.0",
+      "datum": "15.11.2026",
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.6.0.exe",
+      "neu": [
+        "Neuer Bereich „🏠 Dach & Wand“ für Dachdecker, Fassadenbauer und Klempner (14 Tage kostenlos testbar)",
+        "Dach-Aufmaß mit Neigung, Abzügen sowie Traufe, First, Grat, Kehle und Ortgang in laufenden Metern",
+        "Klempnerarbeiten: Rinnen, Fallrohre und Bleche nach Metall (Zink, Kupfer, Alu, Edelstahl), Zuschnitt und Kantungen",
+        "Fassaden, Gerüst mit Standzeit und Container – eigene Dach-Preisliste, Angebot mit einem Klick",
+        "Eigener Briefkopf für Dach & Wand, Hinweis bei möglicher Asbest-Belastung",
+        "Arbeitslohn nach § 35a jetzt genau: Lohnanteil je Position aus Aufmaß, Preisliste, Dach-Kalkulation und Rapporten (Spalte „davon Lohn je Einheit“)",
+        "Hilfe beim ersten Mal: Willkommens-Rundgang und Schritt-für-Schritt-Hinweise in jeder Kachel (z. B. „So schreiben Sie eine Rechnung richtig“)",
+        "Lager: QR-Etikett funktioniert auch als Chef, Handy-Adresse wird automatisch vorgeschlagen, Restfarben nur noch bei Malerbetrieben",
+        "Neuer Mitarbeiter: PIN-Vorschlag statt vorausgefülltem Feld, PIN wird nach dem Anlegen angezeigt",
+        "Enthält alle Neuerungen von 1.5.0 (neues Lager mit QR-Etiketten)"
+      ]
+    },
+    {
+      "version": "1.5.0",
+      "datum": "15.11.2026",
+      "neu": [
+        "(nur als Teil von 1.6.0 ausgeliefert)",
+        "Neues Lager: Bestände je Lagerort – auch jedes Fahrzeug als eigenes Lager",
+        "Buchen statt Überschreiben: Zugang, Entnahme für Baustelle, Umbuchung ins Fahrzeug, Rückgabe, Korrektur – alles nachvollziehbar",
+        "Mindestbestand und Einkaufsliste je Lieferant (PDF/Excel), Hinweis in der Glocke",
+        "QR-Etiketten fürs Regal: Mitarbeiter scannen mit dem Handy und buchen die Entnahme direkt auf die Baustelle",
+        "Restfarben mit Farbton, Kunde und Raum – für Nachbesserungen sofort auffindbar",
+        "Inventur mit Zählliste (PDF) und automatischer Differenzbuchung"
+      ]
+    },
     {
       "version": "1.4.6",
       "datum": "15.11.2026",
