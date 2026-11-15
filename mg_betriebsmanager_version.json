@@ -1,8 +1,20 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "datum": "15.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.4.5.exe",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.4.6.exe",
   "verlauf": [
+    {
+      "version": "1.4.6",
+      "datum": "15.11.2026",
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.4.6.exe",
+      "neu": [
+        "Vor jedem Update sichert das Programm automatisch alle Daten (bleiben dauerhaft liegen)",
+        "Zurück auf eine ältere Version: Firmen-Einstellungen → Updates → „Zurück auf eine ältere Version“",
+        "Updates und Setups kommen jetzt zuverlässig von GitHub statt Shopify/OneDrive",
+        "Material & Lager: Mitarbeiter sehen den Bestand nur noch (mit Suche), ändern kann Chef bzw. Büro",
+        "Mitarbeiternamen mit Leerzeichen am Ende werden einmalig vereinheitlicht (Stunden/Anwesenheit stimmen wieder)"
+      ]
+    },
     {
       "version": "1.4.5",
       "datum": "15.11.2026",
