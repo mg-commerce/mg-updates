@@ -1,7 +1,7 @@
 {
   "version": "1.4.5",
   "datum": "15.11.2026",
-  "download": "https://1drv.ms/u/c/6aaf7f3962735813/IQDJGwHeRf-eRpQDq_0HBfhBAeBcBJNaiOPUOB8Z5GX6xAU?e=cQGKf5",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.4.5.exe",
   "verlauf": [
     {
       "version": "1.4.5",
@@ -14,7 +14,8 @@
         "Personalkosten wahlweise als eine Summe für alle Mitarbeiter (schnell) oder je Mitarbeiter mit Austrittsdatum",
         "Tatsächliche Personalkosten für das ganze Jahr in einer Tabelle eintragen oder das Lohnjournal als CSV importieren",
         "Einnahmen wahlweise nach Rechnungsdatum oder Zahlungseingang, Tabelle als CSV für Excel"
-      ]
+      ],
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.4.5.exe"
     },
     {
       "version": "1.4.4",
