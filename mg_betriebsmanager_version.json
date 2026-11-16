@@ -1,8 +1,21 @@
 {
-  "version": "1.6.0",
-  "datum": "15.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.6.0.exe",
+  "version": "1.6.1",
+  "datum": "16.11.2026",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.6.1.exe",
   "verlauf": [
+    {
+      "version": "1.6.1",
+      "datum": "16.11.2026",
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.6.1.exe",
+      "neu": [
+        "💬 Per WhatsApp senden: Angebote, Rechnungen und Mahnungen mit fertigem Text an den Kunden – PDF speichern, WhatsApp öffnen, anhängen",
+        "Projektakte: Baustelle per WhatsApp an Mitarbeiter (Adresse, Route, Ansprechpartner, Auftrag) und Kunde per WhatsApp anschreiben",
+        "Lager: Lieferanten-Links (z. B. PROSOL, Brillux, MEG, Hoffmann, Würth) als Knöpfe – einstellbar unter Firmen-Einstellungen, auf Wunsch auch für Mitarbeiter",
+        "👕 Arbeitskleidung & Werbeartikel mit Ihrem Firmenlogo bestellen (T-Shirt, Hoodie auch in Weiß, Polo gestickt, Trinkflasche, Tasse) – ganz unten im Lager",
+        "E-Mail-Entwürfe können jetzt auch Bilder anhängen",
+        "Besser lesbar: Hinweis-Kästen (z. B. Arbeitsanweisung im Tagesrapport) und Link-Knöpfe im dunklen Design"
+      ]
+    },
     {
       "version": "1.6.0",
       "datum": "15.11.2026",
