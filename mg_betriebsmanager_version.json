@@ -1,8 +1,26 @@
 {
-  "version": "1.6.1",
-  "datum": "16.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.6.1.exe",
+  "version": "1.7.0",
+  "datum": "17.11.2026",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.0.exe",
   "verlauf": [
+    {
+      "version": "1.7.0",
+      "datum": "17.11.2026",
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.0.exe",
+      "neu": [
+        "✍️ Unterschrift am Handy: Kunde unterschreibt Stundenzettel und Abnahme mit dem Finger – erscheint im PDF",
+        "📦 Material mit Preis und Bild ins Angebot: Verkaufspreis aus Einkaufspreis + Aufschlag (je Kategorie oder Artikel), Preis überschreibbar, Marge nur für Sie sichtbar, Artikelbild im Angebots-PDF",
+        "⚠️ Warnung bei möglicher Doppelberechnung von Material und Materialpauschale",
+        "🧾 Besteuerung (Regelbesteuerung / Kleinunternehmer) nur noch einmal in den Einstellungen festlegen – gilt für alle Angebote und Rechnungen",
+        "📲 Handy-Zugang mit QR-Codes: Programm aufs Handy, VPN-App laden, persönlicher FRITZ!Box-VPN-Code je Mitarbeiter, Links zur FRITZ!Box mit Schritt-für-Schritt-Anleitung",
+        "🕕 Stempeluhr: Arbeitszeit zählt erst ab Arbeitsbeginn, früheres Anstempeln kann das Büro anerkennen; nur einmal pro Tag einstempeln",
+        "🎙️ Diktieren in Tagesrapport und Mängelliste, Rapport kann nicht mehr versehentlich doppelt gesendet werden",
+        "🎬 Vorführ-Modus mit Beispielbetrieb (eigener Start-Eintrag, Ihre Daten bleiben unberührt)",
+        "📨 „Mahnen“ auf der Startseite öffnet direkt die Mahnung der Rechnung",
+        "Genauer gerechnet: Summen centgenau auch bei sehr großen Angeboten, Pauschal-Ansicht ohne Absturz, Preise aus dem Aufmaß kaufmännisch gerundet",
+        "Handy: Ersatz-Pfeile, falls der Browser die Symbole nicht lädt; Einheiten wie „Kanister“ brechen im PDF nicht mehr um"
+      ]
+    },
     {
       "version": "1.6.1",
       "datum": "16.11.2026",
