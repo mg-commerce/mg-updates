@@ -1,8 +1,20 @@
 {
-  "version": "1.7.0",
-  "datum": "17.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.0.exe",
+  "version": "1.7.1",
+  "datum": "18.11.2026",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.1.exe",
   "verlauf": [
+    {
+      "version": "1.7.1",
+      "datum": "18.11.2026",
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.1.exe",
+      "neu": [
+        "🔧 Software-Pflege: Status unter Firmen-Einstellungen → Updates, Erinnerung in der Glocke 4 Wochen vor Ablauf",
+        "Alle Funktionen bis Version 1.7.0 bleiben für alle frei – Sicherheits- und Gesetzes-Updates bekommt jeder",
+        "🧹 Probedaten löschen: nach dem Testen einmal mit sauberem Stand beginnen – die Einrichtung bleibt erhalten",
+        "Behoben: Fehler beim „Mehrarbeit beantragen“ in der Mitarbeiter-Ansicht",
+        "Behoben: § 35a-Betrag auf Angeboten und Rechnungen kaufmännisch gerundet (vorher teils 1 Cent zu wenig)"
+      ]
+    },
     {
       "version": "1.7.0",
       "datum": "17.11.2026",
