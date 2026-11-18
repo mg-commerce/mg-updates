@@ -1,8 +1,18 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "datum": "18.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.1.exe",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.2.exe",
   "verlauf": [
+    {
+      "version": "1.7.2",
+      "datum": "18.11.2026",
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.2.exe",
+      "neu": [
+        "Behoben: Neue Freischalt-Codes wurden fälschlich als „Code zum Zurücksetzen der Chef-PIN“ abgelehnt",
+        "Glocke „Software-Pflege“ → „Details“ öffnet die Updates direkt",
+        "Hinweis zur Windows-Warnung beim Herunterladen des Setups"
+      ]
+    },
     {
       "version": "1.7.1",
       "datum": "18.11.2026",
