@@ -1,8 +1,16 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "datum": "18.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.2.exe",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.3.exe",
   "verlauf": [
+    {
+      "version": "1.7.3",
+      "datum": "18.11.2026",
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.3.exe",
+      "neu": [
+        "🆘 Hilfe anfragen: links in der Seitenleiste – fertige E-Mail (am Büro-PC mit Bildschirmfoto) oder WhatsApp an MG Commerce"
+      ]
+    },
     {
       "version": "1.7.2",
       "datum": "18.11.2026",
