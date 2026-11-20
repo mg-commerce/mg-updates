@@ -1,8 +1,23 @@
 {
-  "version": "1.7.3",
-  "datum": "18.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.7.3.exe",
+  "version": "1.8.0",
+  "datum": "20.11.2026",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.8.0.exe",
   "verlauf": [
+    {
+      "version": "1.8.0",
+      "datum": "20.11.2026",
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.8.0.exe",
+      "neu": [
+        "✨ Neues Aussehen „Modern“: hell und ruhig, runde Karten, klare Knöpfe – die bisherigen Looks bleiben wählbar",
+        "Neue Startseite: Zahlen des Tages, „Heute auf den Baustellen“ und „Zu erledigen“ – ein Klick führt hin",
+        "Menü links in der Seitenleiste, Anmeldung oben mit Abmelden",
+        "📱 Handy für Mitarbeiter: „Heute“ mit Baustelle, Route, Anrufen, großem Stempel-Knopf und Leiste unten",
+        "Hausmeister: Objekte von heute auf der Startseite und am Handy – mit Schlüssel, Route und „Erledigt melden“",
+        "Wetter-Hinweise für Außenarbeiten (Fassade, Dach, Rasen …) – Daten vom Deutschen Wetterdienst",
+        "Rechnung und Angebot mit Summen-Karte (E-Rechnung und § 35a auf einen Blick)",
+        "Behoben: Rechnungs-Seite ohne offene Rechnung, „Stunden manuell buchen“"
+      ]
+    },
     {
       "version": "1.7.3",
       "datum": "18.11.2026",
