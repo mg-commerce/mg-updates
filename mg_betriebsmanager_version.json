@@ -1,8 +1,19 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "datum": "20.11.2026",
-  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.8.0.exe",
+  "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.8.1.exe",
   "verlauf": [
+    {
+      "version": "1.8.1",
+      "datum": "20.11.2026",
+      "download": "https://raw.githubusercontent.com/mg-commerce/mg-updates/main/setups/MG_Betriebsmanager_Setup_v1.8.1.exe",
+      "neu": [
+        "Formulare behalten Ihre Eingaben, wenn etwas fehlt oder falsch ist (z. B. E-Mail-Adresse) – E-Mail ist freiwillig",
+        "⏰ Stempeln nach Feierabend nur mit Grund (z. B. Notdienst) – die Zeit danach zählt, sobald Chef oder Büro sie in der Anwesenheit bestätigt (abschaltbar unter Arbeitszeiten)",
+        "Anwesenheit: Monat und Mitarbeiter direkt beim Nachtragen wählen, „nach Feierabend eingestempelt“ statt „zu spät“",
+        "Behoben: Vom Chef eingetragene Stempelzeiten löschten die Bestätigung „früher Beginn“"
+      ]
+    },
     {
       "version": "1.8.0",
       "datum": "20.11.2026",
